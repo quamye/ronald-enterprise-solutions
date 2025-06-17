@@ -1,5 +1,5 @@
 
-# 🌐 Ronald Henry – IT Infrastructure & Systems Specialist
+# 🌐 Ronald HENRY – Certified ICT Officer | Microsoft Azure Expert |Microsoft Certified Trainer| PMP & CISSP Certified |CISA| Systems Engineer | Cybersecurity Expert.
 
 With over a decade of hands-on experience, I specialize in designing, deploying, and securing complex IT infrastructure across hybrid cloud environments. My global background with the United Nations (MINUSMA) has shaped a multidisciplinary IT profile, blending operational excellence with enterprise-grade technologies.
 
@@ -37,6 +37,6 @@ With over a decade of hands-on experience, I specialize in designing, deploying,
 - **Microsoft Azure Security Engineer (AZ-500)**
 
 ## 📫 Contact
-- 📧 Email: `ronald.henry@umu.edu.lr`
+- 📧 Email: `rjhenry19@hotmail.com`
 - 📍 Ontario, Canada
 - 🔗 GitHub/LinkedIn: *(Add your links)*
