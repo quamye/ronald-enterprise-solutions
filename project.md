@@ -1,4 +1,4 @@
-# Ronald Henry – Enterprise IT Projects Portfolio
+# Ronald HENRY – Enterprise IT Projects Portfolio
 
 This portfolio showcases major IT infrastructure and cybersecurity projects executed across global institutions, including the United Nations and national ministries. Each project demonstrates expertise in architecture, deployment, and strategic IT operations.
 
