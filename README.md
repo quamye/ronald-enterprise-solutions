@@ -1,7 +1,7 @@
 
-# 🌐 Ronald HENRY – Certified ICT Officer | Microsoft Azure Expert |Microsoft Certified Trainer| PMP & CISSP Certified |CISA| Systems Engineer | Cybersecurity Expert.
+# 🌐Ronald HENRY – Certified ICT Officer | Microsoft Azure Expert | Microsoft Certified Trainer (MCT) | PMP | CISSP | CISA | Systems Engineer | Cybersecurity Specialist
 
-With over a decade of hands-on experience, I specialize in designing, deploying, and securing complex IT infrastructure across hybrid cloud environments. My global background with the United Nations (MINUSMA) has shaped a multidisciplinary IT profile, blending operational excellence with enterprise-grade technologies.
+With over a decade of hands-on experience, I specialize in designing, deploying, and securing complex IT infrastructures across hybrid cloud environments. My global experience with the United Nations—spanning roles at MINUSMA and the UN Global Service Centre (UNGSC) has shaped a multidisciplinary IT profile that blends operational excellence with deep expertise in enterprise-grade technologies and secure, scalable architectures.
 
 ## 🔧 Infrastructure & Virtualization Projects
 - **VMware vCenter & Horizon View**: Managed enterprise-grade virtualization for VDI and server deployments. Enabled thin provisioning, high availability, and fault tolerance.
@@ -34,9 +34,11 @@ With over a decade of hands-on experience, I specialize in designing, deploying,
 - **Microsoft Certified Trainer (MCT)** – Over 10 years
 - **CISSP, CCSP, CISA, CompTIA Security+**
 - **PMP & Prince2**
-- **Microsoft Azure Security Engineer (AZ-500)**
+- **Microsoft Azure Security Engineer**
+- **Microsoft Security Operations Analyst**
+- **Microsoft 365 Security Administration**
 
 ## 📫 Contact
 - 📧 Email: `rjhenry19@hotmail.com`
 - 📍 Ontario, Canada
-- 🔗 GitHub/LinkedIn: *(Add your links)*
+- 🔗 GitHub/LinkedIn: *(www.linkedin.com/in/ronald-henry-9ba28135)*
