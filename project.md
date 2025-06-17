@@ -4,6 +4,24 @@ This portfolio showcases major IT infrastructure and cybersecurity projects exec
 
 ---
 
+## United Nations Global Service Centre (UNGSC)-Elasticsearch Project
+**Date:** 2025-Present 
+**Role:** Performance & Problem Management Lead  
+
+### Key Responsibilities:
+- Assessed and monitored WAN status connecting 250+ global sites, ensuring performance and high availability.
+- Led root cause analysis on outages and performance issues; collaborated on corrective strategies.
+- Established performance benchmarks for critical services (Wi-Fi, VTC, Voice) and infrastructure (Satellite links, MPLS, Firewalls).
+- Analyzed routing and capacity for real-time services like TETRA, Voice, and Video to ensure resilience.
+- Reviewed infrastructure problems from reporting to resolution, maintaining detailed documentation.
+- Participated in IT strategy development and aligned infrastructure goals with organizational objectives.
+- Managed system changes, monitored their impact, and ensured system stability during transition.
+- Provided leadership to cross-functional teams and mentored junior staff.
+- Enhanced reporting and observability using tools like Grafana, Elasticsearch, LiveNX, and NetBox.
+- Supported budget planning and performance governance.
+
+---
+
 ## 🇲🇱 Cloud Migration Project – MINUSMA (UN Mission in Mali)
 **Date:** 2023–2024  
 **Role:** Lead Infrastructure & Cloud Engineer  
