@@ -1,5 +1,5 @@
 
-# 🌐Ronald HENRY – Certified ICT Officer | Microsoft Azure Expert | Microsoft Certified Trainer (MCT) | PMP | CISSP | CISA | Systems Engineer | Cybersecurity Specialist
+# 🌐Ronald HENRY – Certified IT Architect | Microsoft MCT | VMware, Citrix & Hyper‑V Administrator | Cloud & Cybersecurity Expert | AI & Enterprise Systems Engineer.
 
 With over a decade of hands-on experience, I specialize in designing, deploying, and securing complex IT infrastructures across hybrid cloud environments. My global experience with the United Nations—spanning roles at MINUSMA and the UN Global Service Centre (UNGSC) has shaped a multidisciplinary IT profile that blends operational excellence with deep expertise in enterprise-grade technologies and secure, scalable architectures.
 
