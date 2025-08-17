@@ -43,6 +43,7 @@ With over a decade of hands-on experience, I specialize in designing, deploying,
 - **Microsoft Azure Security Engineer**
 - **Microsoft Security Operations Analyst**
 - **Microsoft 365 Security Administration**
+- **(Active skill alignment with AZ-305, MS-102, MS-500, SC-300, MD-102.**
 
 ## 📫 Contact
 - 📧 Email: `rjhenry19@hotmail.com`
