@@ -1,5 +1,5 @@
 
-# 🌐Ronald HENRY – Certified IT Architect | Microsoft MCT | VMware, Citrix & Hyper‑V Administrator | Cloud & Cybersecurity Expert | AI & Enterprise Systems Engineer.
+# 🌐Ronald HENRY –  SENIOR CYBERSECURITY LEADER & CLOUD ARCHITECT | HEAD OF CYBERSECURITY DIVISION | MICROSOFT MCT 
 
 With over a decade of hands-on experience, I specialize in designing, deploying, and securing complex IT infrastructures across hybrid cloud environments. My global experience with the United Nations—spanning roles at MINUSMA and the UN Global Service Centre (UNGSC) has shaped a multidisciplinary IT profile that blends operational excellence with deep expertise in enterprise grade technologies and secure, scalable architectures.
 
@@ -22,12 +22,17 @@ With over a decade of hands-on experience, I specialize in designing, deploying,
 - Security & Compliance in Cloud — Defender for Cloud & Defender XDR, Purview (DLP/AIP/Insider Risk), Compliance Manager.
 - Optimization — Cost governance, license efficiency, and telemetry-driven operations (M365 admin analytics + Azure Monitor).
 
+
 ## 🔐 Cybersecurity Operations
 - **Security Tools**: Led deployments of Lansweeper, Nessus, Microsoft Security, and Symantec Endpoint Protection.
 - **Governance**: Ensured alignment with NIST, ISO 27001, CIS Controls, and ITIL.
 - **SIEM & Monitoring**: Managed NetBox, Elasticsearch, LiveNX, Grafana, and other observability platforms.
 - Data protection: — Sensitivity labels/AIP, Purview DLP, BitLocker, backup validation, eDiscovery & audit..
 - Zero Trust Controls — Conditional Access, MFA, PIM, device compliance; least-privilege by design
+- Tasked with establishing and leading the company's inaugural Cybersecurity Division, defining its strategic vision, operational processes, and service offerings for both internal security and managed services for clients.
+- Cloud & Infrastructure Security: Microsoft Azure (IaaS/PaaS/SaaS), Zero Trust Architecture (Conditional Access, PIM, DLP), M365 Security, VMware/Proxmox, Endpoint Protection, Vulnerability Management
+- Security Operations & Incident Response: Security Operations Center (SOC) Oversight, Threat Detection & Response, Digital Forensics, Incident Response Planning & Execution, Disaster Recovery & Business Continuity (99.95% RTO)
+- Project & Technical Management: IT Modernization, Cloud Migration, Virtualization, Cost-Benefit Analysis, Stakeholder Engagement, Project Management Professional (PMP), PRINCE2
 
 ## 💾 Enterprise Storage & Data Management Operations
 - **Hardware**: HP 3PAR, StoreOnce, MSA2000, EMC Data Domain, HPE SimpliVity & Synergy.
